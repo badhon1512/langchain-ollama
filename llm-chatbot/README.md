@@ -21,3 +21,12 @@ This project provides a chatbot interface that interacts with **DeepSeek V1.5B**
 1. Download and install Ollama from:🔗 https://ollama.com
 2. Setup your api key in .env
 3. For running deepseekr1 run deepseek locally: ollama run deepseek-r1:1.5b 
+
+
+## 🖼️ Example Interface
+
+Here is how the chatbot interface looks:
+
+![Chatbot Interface](assets/user.png)
+![Chatbot Interface](assets/assistant.png)
+
