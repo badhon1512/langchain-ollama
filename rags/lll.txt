@@ -1,0 +1,1 @@
+Large Language Models (LLMs) are deep learning models trained on massive datasets to generate human-like text. They use Transformer architectures with self-attention mechanisms to process and generate contextually relevant text. Retrieval-Augmented Generation (RAG) enhances LLMs by providing external knowledge retrieval from databases, improving accuracy and factual consistency.
